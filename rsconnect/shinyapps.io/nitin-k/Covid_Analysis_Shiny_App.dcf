@@ -1,0 +1,12 @@
+name: Covid_Analysis_Shiny_App
+title: Covid_Analysis_Shiny_App
+username:
+account: nitin-k
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3102901
+bundleId: 3786600
+url: https://nitin-k.shinyapps.io/Covid_Analysis_Shiny_App/
+when: 1603781614.14013
+asMultiple: FALSE
+asStatic: FALSE
